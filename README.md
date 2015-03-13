@@ -2,7 +2,7 @@ Gbacklight is a graphical frontend to  [xbacklight](http://gitweb.freedesktop.or
 
 # Usage
 
-gbacklight options
+    gbacklight options
 
 
 where options are
