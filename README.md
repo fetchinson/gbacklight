@@ -1,4 +1,4 @@
-Gbacklight is a graphical frontend to  [http://gitweb.freedesktop.org/?p=xorg/app/xbacklight.git](xbacklight) for adjusting the display brightness. It is a stand alone application with no dependencies other than GTK and X.
+Gbacklight is a graphical frontend to  [xbacklight](http://gitweb.freedesktop.org/?p=xorg/app/xbacklight.git) for adjusting the display brightness. It is a stand alone application with no dependencies other than GTK and X.
 
 # Usage
 
